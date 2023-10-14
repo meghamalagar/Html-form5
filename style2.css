@@ -1,0 +1,51 @@
+.two{
+    height:100%;
+    width: 40%;
+    overflow: hidden;
+    position: relative;
+   background-image: url(img1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    justify-content: center;
+    display: inline-block;
+    border: 2px ridge black;
+    border-radius: 10px;
+    margin-left: 450px;
+}
+.five{
+    font-size: 30px;
+    color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.three{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    display: inline-block;
+    width: 100px;
+    
+}
+body{
+   background-image: url(img1.jpg);
+
+}
+.four{
+    border: 2px ridge black;
+    background-color: antiquewhite;
+    display: inline-block;
+    
+    
+}
+#four:hover{
+    background-color: black;
+}
+
+#one{
+    background-color: aqua;
+    font-size: 20px;
+    margin-right: auto;
+}
+#one:hover{
+    background-color: brown;
+}
